@@ -1,0 +1,25 @@
+header h3{
+    margin-right: 1200px;
+}
+.nav-task {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 90%;
+    margin-top: -50px;
+  }
+  .nav-title{
+    text-decoration: none;
+    color: #333333;
+    font-weight: bold;
+    font-size: 1.0rem;
+    padding: 10px;
+    margin-right: 40px;
+   
+}
+.nav-title:hover {
+color: #6b6bf8;
+}
